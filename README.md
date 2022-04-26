@@ -1,2 +1,2 @@
-# c39_alumno_fin
-archivos para actividad alumno c39 
+# C39_Código de referencia_Carreras de autos
+Código de referencia de la maestra
